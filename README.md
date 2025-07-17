@@ -67,6 +67,9 @@ The database schema was fully normalized up to 3NF:
 ✅ Introduced foreign key relationships for referential integrity
 
 ---
+sample screenshots have been given for easy understanding.
+
+---
 
 🧠 Challenges & Solutions
 
