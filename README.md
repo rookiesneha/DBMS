@@ -101,5 +101,5 @@ Applied automation principles to data entry and reporting
 
 📄 License
 
-MIT License — free to use and expand for educational or institutional use.
+MIT License — free to use and modify.
 ---
